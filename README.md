@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LIVE_PROJECT_LINK_HERE"><b>🕹️ &nbsp;PRESS START · OPEN LIVE APP</b></a>
+  <a href="https://smart-outcome-predictor-by-master.streamlit.app"><b>🕹️ &nbsp;PRESS START · OPEN LIVE APP</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="YOUR_VIDEO_LINK_HERE"><b>🎬 &nbsp;WATCH DEMO</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="YOUR_GITHUB_REPOSITORY_LINK_HERE"><b>💻 &nbsp;SOURCE CODE</b></a>
+  <a href="https://github.com/mayurofficial-tech/Smart-Outcome-Predictor"><b>💻 &nbsp;SOURCE CODE</b></a>
 </p>
 
 <p align="center">
