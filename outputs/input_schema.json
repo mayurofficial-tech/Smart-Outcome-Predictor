@@ -1,0 +1,118 @@
+{
+  "age": {
+    "type": "numeric",
+    "default": 24.0,
+    "min": 16.0,
+    "max": 45.0
+  },
+  "country_region": {
+    "type": "categorical",
+    "default": "Asia",
+    "choices": [
+      "Africa",
+      "Americas",
+      "Asia",
+      "Europe",
+      "Oceania"
+    ]
+  },
+  "device_type": {
+    "type": "categorical",
+    "default": "Mobile",
+    "choices": [
+      "Laptop",
+      "Mobile",
+      "Tablet"
+    ]
+  },
+  "education_background": {
+    "type": "categorical",
+    "default": "Undergrad",
+    "choices": [
+      "Graduate",
+      "HighSchool",
+      "Undergrad",
+      "WorkingPro"
+    ]
+  },
+  "course_level": {
+    "type": "categorical",
+    "default": "Beginner",
+    "choices": [
+      "Advanced",
+      "Beginner",
+      "Intermediate"
+    ]
+  },
+  "course_category": {
+    "type": "categorical",
+    "default": "Data",
+    "choices": [
+      "Business",
+      "Data",
+      "Design",
+      "Marketing",
+      "Programming"
+    ]
+  },
+  "week_of_year": {
+    "type": "numeric",
+    "default": 27.0,
+    "min": 1.0,
+    "max": 52.0
+  },
+  "sessions": {
+    "type": "numeric",
+    "default": 17.0,
+    "min": 1.0,
+    "max": 94.0
+  },
+  "time_spent_hours": {
+    "type": "numeric",
+    "default": 16.1,
+    "min": 0.6,
+    "max": 76.8
+  },
+  "videos_watched": {
+    "type": "numeric",
+    "default": 23.0,
+    "min": 0.0,
+    "max": 158.0
+  },
+  "quiz_attempts": {
+    "type": "numeric",
+    "default": 7.0,
+    "min": 0.0,
+    "max": 20.0
+  },
+  "assignments_submitted": {
+    "type": "numeric",
+    "default": 4.0,
+    "min": 0.0,
+    "max": 12.0
+  },
+  "forum_posts": {
+    "type": "numeric",
+    "default": 1.0,
+    "min": 0.0,
+    "max": 8.0
+  },
+  "avg_quiz_score": {
+    "type": "numeric",
+    "default": 66.8,
+    "min": 0.0,
+    "max": 100.0
+  },
+  "attendance_rate": {
+    "type": "numeric",
+    "default": 0.855,
+    "min": 0.404,
+    "max": 1.0
+  },
+  "couse_durection_day": {
+    "type": "numeric",
+    "default": 180.0,
+    "min": 0.0,
+    "max": 364.0
+  }
+}
